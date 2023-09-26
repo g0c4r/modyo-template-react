@@ -1,6 +1,5 @@
 
-<img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" width="60"> 
-<img src="https://cloud.modyocdn.com/uploads/3e33d46c-1555-4f58-a218-6f2b5d80b4cd/original/modyo.svg" width=""> 
+<img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" width="60"> <img src="https://cloud.modyocdn.com/uploads/3e33d46c-1555-4f58-a218-6f2b5d80b4cd/original/modyo.svg" width=""> 
 
 # React + Modyo Widget
 
@@ -51,6 +50,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 Open <http://127.0.0.1:5173> to view it in the browser.
+
 Note: you can use ```--host``` flag to expose the server to other devices in your network.
 
 ### `yarn build`
