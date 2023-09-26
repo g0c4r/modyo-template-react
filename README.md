@@ -31,7 +31,7 @@ If this is your first time using Modyo CLI, open your terminal as administrator 
    yarn dev
    ```
 
-5. Before pushing your widget to Modyo, you must change the in the following files:
+5. Before pushing your widget to Modyo, you must change the following files:
 
    ***package.json***
    `"name": "your-widget-name",`
