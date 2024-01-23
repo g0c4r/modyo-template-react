@@ -15,27 +15,28 @@ If this is your first time using Modyo CLI, open your terminal as administrator 
 ```
 
 1. Clone this repository.
+
    ```bash
    git clone https://github.com/g0c4r/modyo-template-react.git
    ```
 
-3. Install dependencies.
-     
+2. Install dependencies.
+
     **Use yarn to install dependencies**
   
      ```bash
      yarn install
      ```
 
-5. Create .env file and copy the content of .env.example
+3. Create .env file and copy the content of .env.example
 
-6. Run the development server.
+4. Run the development server.
 
    ```bash
    yarn dev
    ```
 
-7. Before pushing your widget to Modyo, you must change the following files:
+5. Before pushing your widget to Modyo, you must change the following files:
 
    ***package.json***
    `"name": "your-widget-name",`
