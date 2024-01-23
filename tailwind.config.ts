@@ -5,6 +5,8 @@ const config: Config = {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  prefix: 'tw-',
+  important: true,
   theme: {
     extend: {
     },

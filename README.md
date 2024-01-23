@@ -28,7 +28,11 @@ If this is your first time using Modyo CLI, open your terminal as administrator 
      yarn install
      ```
 
+<<<<<<< HEAD
 3. Create .env file and copy the content of .env.example
+=======
+5. Create ```.env``` file and copy the content of ```.env.example```
+>>>>>>> 55f63f93ff0881d2e137a7e5c32eeb8e5fb566a8
 
 4. Run the development server.
 
